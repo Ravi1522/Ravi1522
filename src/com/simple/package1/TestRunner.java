@@ -21,6 +21,7 @@ public class TestRunner {
 		System.out.println(songList);
 		System.out.println("Execution done");
 		System.out.println("Next step Execution done");
+		System.out.println("3rd step Execution done");
 		
 	}
 
