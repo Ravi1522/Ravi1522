@@ -20,6 +20,7 @@ public class TestRunner {
 		List songList= recent.getRecentlyPlayed("User 1");
 		System.out.println(songList);
 		System.out.println("Execution done");
+		System.out.println("Next step Execution done");
 		
 	}
 
